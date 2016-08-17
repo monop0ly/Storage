@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "276608374534",
+    "firebase_url": "https://androidstorage-5be7b.firebaseio.com",
+    "project_id": "androidstorage-5be7b",
+    "storage_bucket": "androidstorage-5be7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276608374534:android:4a4017cbc94c7dd4",
+        "android_client_info": {
+          "package_name": "com.example.vaibhav.storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276608374534-c4m3pqc941t3oikmqor3tjelvvnnb4sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV7qfiFAV3PksKFyzGlNt7TXO58lKOeL4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

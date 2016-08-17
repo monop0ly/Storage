@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Storage</string>
+    <string name="title_activity_task">Storage</string>
+    <string name="defult"></string>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_add_enc">AddEnc</string>
+</resources>
