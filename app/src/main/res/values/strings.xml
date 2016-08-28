@@ -8,4 +8,5 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_activity_add_enc">AddEnc</string>
+    <string name="title_activity_dec_pass">DecPass</string>
 </resources>

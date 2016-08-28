@@ -30,6 +30,10 @@
         <activity
             android:name=".AddEnc"
             android:label="@string/title_activity_add_enc"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DecPass"
+            android:label="@string/title_activity_dec_pass"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
